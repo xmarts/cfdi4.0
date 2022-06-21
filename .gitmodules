@@ -2,6 +2,3 @@
 	path = xmarts/cfdi4-enterprise
 	url = git@github.com:xmarts/cfdi4-enterprise.git
 	branch = 15.0
-[submodule "l10n-mx-xma-cancel-cfdi"]
-	path = l10n-mx-xma-cancel-cfdi
-	url = git@github.com:xmarts/l10n-mx-xma-cancel-cfdi.git
